@@ -1,48 +1,63 @@
-# PyGalaxian 
+# PyGalaxian
 
 ![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/1.png)
 
-### Description:
-A simple vertical space shooter game
+### 描述：
 
-### Technology:
-Built using pygame library on Python 2.7
+一款簡單的垂直太空射擊遊戲
 
-### Version and Release:
-First Release, version 1.0
+### 技術：
 
-### Target Platforms:
-Windows/Linux/Android(in future)
+使用 Python 2.7 和 pygame 庫構建
 
-### Instructions and Prerequisites:   
-To run this game:  
-* Make sure you have Python 2.7 installed alongwith pygame (http://www.pygame.org/) library
-* Run PyGalaxian.py
+### 版本和發布：
 
-##### Controls:
-* Move your spaceship by pressing LEFT or RIGHT key
-* Fire lazers using UP key
-* Destroy all enemies to win the game
-* To exit the game at any point of time, just press ESC key 
+首個版本，版本 1.0
 
+### 目標平台：
 
-### Screenshots:
+Windows/Linux/Android（未來將支援）
+
+### 說明與前提條件：
+
+運行此遊戲：
+
+* 確保您已安裝 Python 2.7 和 pygame (http://www.pygame.org/) 函式庫
+
+* 運行 PyGalaxian.py
+
+##### 控制：
+
+* 按下左或右鍵移動飛船
+
+* 按上鍵發射雷射
+
+* 消滅所有敵人即可贏得遊戲
+
+* 隨時按 ESC 鍵退出遊戲
+
+###截圖：
+
 ![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/2.png)
 
 ![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/3.png)
 
 ![](https://github.com/shivamshekhar/PyGalaxian/raw/master/Screenshots/4.png)
 
+### 開發者：
 
-### Developed by: 
-Shivam Shekhar  
-Email: shivam.shekhar.ece14@itbhu.ac.in   
+Shivam Shekhar
 
-#### Credits:
-* Sprites : http://millionthvector.blogspot.in/p/free-sprites.html
-* Logo: http://www4.flamingtext.in
+信箱：shivam.shekhar.ece14@itbhu.ac.in
 
-#### References:
+#### 鳴謝：
+
+* 精靈圖：http://millionthvector.blogspot.in/p/free-sprites.html
+
+* Logo：http://www4.flamingtext.in
+
+#### 參考資料：
+
 * http://www.pygame.org/docs
-* https://github.com/TheLycaeum/pygame 
 
+* https://github.com/TheLycaeum/pygame
